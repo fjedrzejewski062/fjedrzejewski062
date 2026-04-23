@@ -17,7 +17,7 @@ Here are some of the projects I’ve been working on lately:
 - **BIP System** – A full-stack *Biuletyn Informacji Publicznej (Public Information Bulletin)* platform designed for public institutions.  
   The system provides structured content management (sections, subsections, articles), file attachments, audit logging, role-based access control (Admin / Editor / Public user), rich text editing via TinyMCE, and optional two-factor authentication.  
   Built with Java Spring Boot, Spring Security, Thymeleaf, and MySQL, it simulates a real-world government-style information system with separate admin and editor panels and public access for citizens.  
-  🔗 [View on GitHub](https://github.com/TWOJ_USERNAME/bip)
+  🔗 [View on GitHub](https://github.com/fjedrzejewski062/bip-system)
 
 - **EliteMCServers** – A full-featured Java Spring Boot web platform for discovering and managing Minecraft servers.  
   The application includes OAuth2-based user authentication, server listing with moderation tools, a comment system, Stripe integration for donations, and a dedicated admin panel. The UI is built using Thymeleaf for dynamic, server-rendered content.  
